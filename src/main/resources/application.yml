@@ -1,0 +1,9 @@
+kafka:
+  bootstrap-servers: kafka-cluster.kafka.05bb30706bca416991c9.canadaeast.aksapp.io:9094
+  #bootstrap-servers: 40.86.210.119:9094
+#  topic:
+#    bar: bar.t
+#    foo: foo.t
+
+server:
+  port: 9091
